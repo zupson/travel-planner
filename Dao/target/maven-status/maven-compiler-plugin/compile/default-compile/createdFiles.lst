@@ -1,0 +1,9 @@
+hr\algebra\model\Destination.class
+hr\algebra\model\Activity.class
+hr\algebra\model\Country.class
+hr\algebra\model\Person.class
+hr\algebra\model\Transport.class
+hr\algebra\model\Travel.class
+hr\algebra\dal\sql\DataSourceSingleton.class
+hr\algebra\model\Role.class
+hr\algebra\model\City.class
